@@ -4,7 +4,7 @@ A modern, responsive payment application built with React and TypeScript, featur
 
 ## 🚀 Live Demo
 
-The application is deployed and can be viewed at: [Your Deployment URL Here]
+The application is deployed and can be viewed at: https://github.com/Midhat20/payment-app.git
 
 ## 🎯 Features
 
@@ -77,7 +77,7 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Midhat20/payment-app.git
    cd payment-app
    ```
 
