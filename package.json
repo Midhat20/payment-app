@@ -2,6 +2,7 @@
   "name": "payment-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Midhat20.github.io/payment-app",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
@@ -15,7 +16,7 @@
     "react-dom": "^19.2.4",
     "react-scripts": "5.0.1",
     "typescript": "^4.9.5",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
   },
   "devDependencies": {
     "autoprefixer": "^10.4.14",
